@@ -46,19 +46,35 @@ I am an aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" > </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"> </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"> <a/>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Java" width="40" height="40"/> </a>
+ <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+  <a href="https://css3.com/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+ <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+  <a href="https://github.com/rohon710"><img src="https://skillicons.dev/icons?i=github"> </a>
+    
+</div>
+
+---
+
+### :fire: My Stats :
+
+<div class ="footer" align = "center">
   
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" >
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohon710&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+<div align = "center">
   
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohon710&layout=compact&theme=vision-friendly-dark)](https://github.com/rohon710/github-readme-stats)
   
 </div>
+
+
 
