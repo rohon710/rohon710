@@ -46,7 +46,7 @@ I am an aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="" alt="Java" width="40" height="40"/> </a>
+   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rohon710/Pythoon-for-Everybody-Solutions/blob/main/Tableau%20icon/tableau-integration-logo.png" alt="Java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" > </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src ="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"> </a>
